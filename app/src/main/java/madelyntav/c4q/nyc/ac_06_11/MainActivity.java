@@ -1,6 +1,6 @@
 package madelyntav.c4q.nyc.ac_06_11;
 
-/** Created by MadelynTav and FattyDucky**/
+/** Created by MadelynTav and FattyDuck**/
 
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
